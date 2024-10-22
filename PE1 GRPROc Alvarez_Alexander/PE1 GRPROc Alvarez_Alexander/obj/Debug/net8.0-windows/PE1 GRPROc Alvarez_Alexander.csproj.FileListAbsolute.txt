@@ -1,0 +1,20 @@
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\bin\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander.exe
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\bin\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander.deps.json
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\bin\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander.runtimeconfig.json
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\bin\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander.dll
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\bin\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander.pdb
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander_MarkupCompile.cache
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander_MarkupCompile.lref
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander.g.resources
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander.AssemblyInfoInputs.cache
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander.AssemblyInfo.cs
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander.csproj.CoreCompileInputs.cache
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander.dll
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\refint\PE1 GRPROc Alvarez_Alexander.dll
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander.pdb
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\PE1 GRPROc Alvarez_Alexander.genruntimeconfig.cache
+C:\Users\flash\OneDrive\Desktop\PE1 GRPROc\PE1 GRPROc Alvarez_Alexander\PE1 GRPROc Alvarez_Alexander\obj\Debug\net8.0-windows\ref\PE1 GRPROc Alvarez_Alexander.dll

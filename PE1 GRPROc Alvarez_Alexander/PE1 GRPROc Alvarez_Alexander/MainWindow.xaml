@@ -1,0 +1,18 @@
+﻿<Window x:Class="PE1_GRPROc_Alvarez_Alexander.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PE1_GRPROc_Alvarez_Alexander"
+        mc:Ignorable="d"
+        Title="Student Groepeerder" Height="500" Width="850"
+        Background="LightCyan">
+    <Grid>
+        <TextBox x:Name="startStudentnummer" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Start studentennummers" Height="50" VerticalAlignment="Top" Width="200" Margin="25,27,0,0" TextChanged="startStudentnummer_TextChanged"/>
+        <TextBox x:Name="eindStudentnummer" HorizontalAlignment="Center" Margin="0,27,0,0" TextWrapping="Wrap" Text="Eind studentennummers" Height="50" VerticalAlignment="Top" Width="200"/>
+        <Button Content="Maak groepen" HorizontalAlignment="Left" Margin="591,27,0,0" VerticalAlignment="Top" Height="50" Width="200" Click="Button_Click"/>
+        <Label x:Name="startnummertxt" Content="Label" HorizontalAlignment="Left" Margin="49,125,0,0" VerticalAlignment="Top" Width="176" Height="51"/>
+        <Label x:Name="eindnummertxt" Content="Label" HorizontalAlignment="Left" Margin="349,125,0,0" VerticalAlignment="Top" Width="176" Height="51"/>
+        <TextBox x:Name="resultTextBox" HorizontalAlignment="Center" Margin="0,224,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="800" Height="250"/>
+    </Grid>
+</Window>
