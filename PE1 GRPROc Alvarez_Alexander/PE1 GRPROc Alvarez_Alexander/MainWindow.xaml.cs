@@ -23,7 +23,12 @@ namespace PE1_GRPROc_Alvarez_Alexander
         }
         private void Button_Click(object sender, RoutedEventArgs e)
      {
-     if (int.TryParse(startnummertxt)
+     if (int.TryParse(startnummertxt.text,out int startNumber) &&
+         int.TryParse(EndStudentNumberTextBox.Text, out int endNumber))
+         {
+            string result =maak groepen(startNumber, endNumber);
+                ResultTextBox.Text = result;
+         }
     }
 
         
