@@ -21,7 +21,10 @@ namespace PE1_GRPROc_Alvarez_Alexander
             InitializeComponent();
 
         }
-        int startnummer;
+        private void Button_Click(object sender, RoutedEventArgs e)
+     {
+     if (int.TryParse(startnummertxt)
+    }
 
         
 
